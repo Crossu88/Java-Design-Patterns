@@ -1,0 +1,3 @@
+INFO: Testing a logged message
+WARNING: Testing a warning message
+ERROR: Testing an error message
